@@ -1,8 +1,7 @@
 {
-  "name": "Final-Project-FinPro-GDGOC-WEB-3.0",
+  "name": "voting-web3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Inggil1014.github.io/Final-Project-FinPro-GDGOC-WEB-3.0",
   "dependencies": {
     "ethers": "^6.7.0",
     "react": "^18.2.0",
@@ -12,8 +11,6 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
